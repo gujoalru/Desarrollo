@@ -1,0 +1,10 @@
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\CarWash\bin\Debug\CarWash.exe.config
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\bin\Debug\CarWash.exe.config
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\bin\Debug\CarWash.exe
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\bin\Debug\CarWash.pdb
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\obj\Debug\CarWash.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\obj\Debug\CarWash.Form1.resources
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\obj\Debug\CarWash.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\obj\Debug\CarWash.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\obj\Debug\CarWash.exe
+C:\Users\Gustavo\Desktop\Clases\Desarrollo\III Parcial\Desarrollo\CarWash\obj\Debug\CarWash.pdb
